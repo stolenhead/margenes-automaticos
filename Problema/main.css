@@ -1,14 +1,12 @@
-div {
-	border: 20px solid yellow;
-	height: 200px ;
+.cajaa {
 	width: 200px;
-	padding: 40px 40px;
-	
+	border: 20px solid #FDF733;
+	padding: 20px;
 }
-
-.cajab {
-   margin-left: 40%;
+.cajaa p{
+  font-size: 1em;
+	text-align: center;
   }
-.cajaa{
-	 text-align: center;
+#dos{
+margin: 0px auto;	
 }
